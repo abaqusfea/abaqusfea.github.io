@@ -1,1 +1,1 @@
-# A webpage for abaqus fea 
+# A webpage for Abaqus FEA
